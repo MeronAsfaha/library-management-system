@@ -39,10 +39,6 @@ The LibraryManagementAPI is a powerful backend application built to streamline l
 
 - Simplifies database access using the Java Persistence API (JPA).
 
-### 4. Spring Security:
-
-- Provides authentication and authorization features for API security.
-
 ### 5. Hibernate:
 
 - ORM (Object-Relational Mapping) framework for data handling.
